@@ -1,4 +1,0 @@
-repository "Survival 2025-01-29_16-37-38/Survival@7971666173389@cloud"
-  path "/"
-    br "/main"
-    co "/main"
